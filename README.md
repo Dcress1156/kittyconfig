@@ -8,3 +8,7 @@ My kitty configuration file
 Shell:  Fish
 
 Prompt: Tide
+
+Font: BigBlue Terminal Nerd Font
+
+
